@@ -11,5 +11,5 @@ Demo: https://qholzweg.github.io/green-messenger/index.html
 - приложение отображает статус отправленных сообщений
 
 ## Стек
-JS, React, HTTP API
+JS, React, Tailwind, HTTP API
 
